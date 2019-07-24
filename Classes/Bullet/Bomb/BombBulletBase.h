@@ -1,0 +1,1 @@
+#ifndef _BombBulletBase_H_#define _BombBulletBase_H_#include "cocos2d.h"#include "Bullet.h"USING_NS_CC;class BombBulletBase : public Bullet{public:    virtual bool initWithTypeAndLevel(BulletType bulletType, int level);    protected:    void attackAreaMonster();};#endif

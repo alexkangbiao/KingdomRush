@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>terrains</key>
+	<array>
+        <dict><key>id</key><string>0</string><key>type</key><string>3</string><key>x</key><string>850</string><key>y</key><string>710</string></dict>
+        <dict><key>id</key><string>1</string><key>type</key><string>3</string><key>x</key><string>500</string><key>y</key><string>610</string></dict>
+        <dict><key>id</key><string>2</string><key>type</key><string>3</string><key>x</key><string>220</string><key>y</key><string>510</string></dict>
+        <dict><key>id</key><string>3</string><key>type</key><string>3</string><key>x</key><string>780</string><key>y</key><string>540</string></dict>
+        <dict><key>id</key><string>4</string><key>type</key><string>3</string><key>x</key><string>930</string><key>y</key><string>520</string></dict>
+        <dict><key>id</key><string>5</string><key>type</key><string>3</string><key>x</key><string>450</string><key>y</key><string>440</string></dict>
+        <dict><key>id</key><string>6</string><key>type</key><string>3</string><key>x</key><string>250</string><key>y</key><string>380</string></dict>
+        <dict><key>id</key><string>7</string><key>type</key><string>3</string><key>x</key><string>740</string><key>y</key><string>350</string></dict>
+        <dict><key>id</key><string>8</string><key>type</key><string>3</string><key>x</key><string>940</string><key>y</key><string>320</string></dict>
+        <dict><key>id</key><string>9</string><key>type</key><string>3</string><key>x</key><string>420</string><key>y</key><string>250</string></dict>
+	</array>
+</dict>
+</plist>

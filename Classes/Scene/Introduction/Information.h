@@ -1,0 +1,1 @@
+#include "cocos2d.h"USING_NS_CC;class Information : public Layer {public:	static Scene* createScene();    CREATE_FUNC(Information);    protected:    virtual bool init();    void initMap();    void onCallBackMenu(Ref *pSpender);};

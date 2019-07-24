@@ -1,0 +1,1 @@
+#ifndef _GROUP_MONSTER_H_#define _GROUP_MONSTER_H_#include "cocos2d.h"USING_NS_CC;class GroupMonster: public Node {public:         static GroupMonster* createWithData(int type, int road, int path);		CC_SYNTHESIZE(int, _type, Type);//保存怪物类型	CC_SYNTHESIZE(int, _road, Road);//不同出口	CC_SYNTHESIZE(int, _path, Path);//不同路线};#endif

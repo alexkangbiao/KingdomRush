@@ -1,0 +1,1 @@
+#ifndef _ROAD_H_#define _ROAD_H_#include "cocos2d.h"USING_NS_CC;class Road : public Sprite{public:	Road();	~Road();    virtual bool init();    CREATE_FUNC(Road);        void buildRoadAnimation(int number);private:    Vector<Sprite*> _roadVector;	Vector<Animation*> _roadAnimaitonVector;    	void initRoadAnimation();    void showFinishedRoad();};#endif

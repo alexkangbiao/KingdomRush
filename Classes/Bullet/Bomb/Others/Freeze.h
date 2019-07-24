@@ -1,0 +1,1 @@
+#ifndef _FREEZE_H_#define _FREEZE_H_#include "cocos2d.h"#include "BombBulletBase.h"USING_NS_CC;class Freeze : public BombBulletBase{public:    virtual bool init();    CREATE_FUNC(Freeze);    	void shoot(Point point);//	void removeBullet();private:    virtual void handleHP(BaseMonster * monster);};#endif

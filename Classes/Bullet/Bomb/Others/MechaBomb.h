@@ -1,0 +1,1 @@
+#ifndef _MECHA_BOMB_H_#define _MECHA_BOMB_H_#include "cocos2d.h"#include "BombBulletBase.h"USING_NS_CC;class MechaBomb : public BombBulletBase{public:    virtual bool init();    CREATE_FUNC(MechaBomb);	void shoot();//	void removeBullet();private:    void processMonsterDeath(BaseMonster * monster);    void handleFinishBullet();};#endif

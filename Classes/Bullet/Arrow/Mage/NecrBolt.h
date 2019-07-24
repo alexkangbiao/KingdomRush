@@ -1,0 +1,1 @@
+#ifndef _NECRBOLT_H_#define _NECRBOLT_H_#include "cocos2d.h"#include "MageBase.h"class NecrBolt : public MageBase{public :	bool init();	CREATE_FUNC(NecrBolt);    	void shoot();};#endif

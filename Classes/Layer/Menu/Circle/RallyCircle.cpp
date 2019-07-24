@@ -1,0 +1,1 @@
+#include "RallyCircle.h"bool RallyCircle::init() {    if (! this->initWithScaleXFactorAndFileName(1.0f, "rally_circle.png")) {        return false;    }	return true;}

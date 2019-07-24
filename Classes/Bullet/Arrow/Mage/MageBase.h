@@ -1,0 +1,1 @@
+#ifndef _MageBase_H_#define _MageBase_H_#include "SoundManager.h"#include "cocos2d.h"#include "GameManager.h"#include "BaseMonster.h"#include "ArrowBulletBase.h"USING_NS_CC;class MageBase : public ArrowBulletBase{protected:        //设置子弹的个性化参数配置    virtual void addAdditionalParameterConfig();};#endif

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>43</string><key>to</key><string>53</string><key>delay</key><string>0.02f</string><key>animationname</key><string>WingRider_attack</string></dict>
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>57</string><key>to</key><string>67</string><key>delay</key><string>0.04f</string><key>animationname</key><string>WingRider_death</string></dict>
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>15</string><key>to</key><string>28</string><key>delay</key><string>0.04f</string><key>animationname</key><string>WingRider_runup</string></dict>
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>29</string><key>to</key><string>42</string><key>delay</key><string>0.04f</string><key>animationname</key><string>WingRider_rundown</string></dict>
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>14</string><key>delay</key><string>0.04f</string><key>animationname</key><string>WingRider_runleft</string></dict>
+<dict><key>imagename</key><string>CanibalWingRider_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>14</string><key>delay</key><string>0.04f</string><key>animationname</key><string>WingRider_runright</string></dict>
+
+	</array>
+</dict>
+</plist>

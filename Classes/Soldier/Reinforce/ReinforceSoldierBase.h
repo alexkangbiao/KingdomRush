@@ -1,0 +1,1 @@
+#ifndef _ReinforceSoldierBase_H_#define _ReinforceSoldierBase_H_#include "BaseSoldier.h"/* 这个类是和伞降有关的类。   */class ReinforceSoldierBase : public BaseSoldier {public:	virtual bool initWithSoldierType(SoldierType soldierType, int level);protected:    void birth(Point toPoint);    private:        virtual void addAdditionalParameterConfig();};#endif

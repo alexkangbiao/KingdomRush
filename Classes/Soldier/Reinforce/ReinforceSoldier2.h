@@ -1,0 +1,1 @@
+#ifndef _REINFORCE_SOLDIER_2_H_#define _REINFORCE_SOLDIER_2_H_#include "ReinforceSoldierBase.h"class ReinforceSoldier2 : public ReinforceSoldierBase{public:	virtual bool init();	static ReinforceSoldier2* createReinforceSoldier(Point point);    private:    virtual void setAnimationAndOthers();};#endif

@@ -1,0 +1,1 @@
+#ifndef _BARRACK_Soldier_H_#define _BARRACK_Soldier_H_#include "BaseSoldier.h"class BarrackSoldier : public BaseSoldier{public:	bool initSoldier(int level);	static BarrackSoldier* createSoldier(Point point, int level);private:    void updateSoldier(int level);    virtual void setAnimationAndOthers();};#endif

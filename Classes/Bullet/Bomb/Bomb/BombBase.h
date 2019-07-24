@@ -1,0 +1,1 @@
+#ifndef _BombBase_H_#define _BombBase_H_#include "cocos2d.h"#include "BombBulletBase.h"USING_NS_CC;class BombBase : public BombBulletBase{protected:        //设置子弹的个性化参数配置    virtual void addAdditionalParameterConfig();};#endif

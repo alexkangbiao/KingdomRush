@@ -1,0 +1,1 @@
+#include "Circle.h"bool Circle::init() {	if (! this->initWithScaleXFactorAndFileName(1.0f, "range_circle.png")) {		return false;	}    	return true;}

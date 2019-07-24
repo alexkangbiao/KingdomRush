@@ -1,0 +1,1 @@
+#ifndef _DYNAMITE_H_#define _DYNAMITE_H_#include "cocos2d.h"#include "BombBulletBase.h"USING_NS_CC;class Dynamite : public BombBulletBase{public:    virtual bool init();    CREATE_FUNC(Dynamite);    	void shoot(Point point);//	void removeBullet();private:    void processMonsterDeath(BaseMonster * monster);//    void handleFinishBullet();};#endif

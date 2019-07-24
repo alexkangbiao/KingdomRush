@@ -1,0 +1,1 @@
+#ifndef _TOTEM_AXE_H_#define _TOTEM_AXE_H_#include "cocos2d.h"#include "ArrowBase.h"USING_NS_CC;class TotemAxe : public ArrowBase{public:    virtual bool init();    CREATE_FUNC(TotemAxe);    	void shoot();private:    void processMonsterDeath(BaseMonster * monster);        void handleMissBullet();};#endif

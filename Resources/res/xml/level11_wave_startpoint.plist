@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>startpoints</key>
+	<array>
+				<dict>
+					<key>id</key>
+					<string>0</string>
+					<key>x</key>
+					<string>343</string>
+					<key>y</key>
+					<string>710</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1</string>
+					<key>x</key>
+					<string>878</string>
+					<key>y</key>
+					<string>820</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>2</string>
+					<key>x</key>
+					<string>1140</string>
+					<key>y</key>
+					<string>750</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>3</string>
+					<key>x</key>
+					<string>1100</string>
+					<key>y</key>
+					<string>480</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>4</string>
+					<key>x</key>
+					<string>700</string>
+					<key>y</key>
+					<string>40</string>
+				</dict>
+	</array>
+</dict>
+</plist>

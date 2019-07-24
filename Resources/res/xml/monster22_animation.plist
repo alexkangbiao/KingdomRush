@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>21</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_runleft</string></dict>
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>21</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_runright</string></dict>
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>23</string><key>to</key><string>43</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_runup</string></dict>
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>45</string><key>to</key><string>65</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_rundown</string></dict>
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>67</string><key>to</key><string>98</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_attack</string></dict>
+<dict><key>imagename</key><string>SaurianNightscale_0%03d.png</string><key>from</key><string>125</string><key>to</key><string>144</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Nightscale_death</string></dict>
+
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>67</string><key>to</key><string>77</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_attack</string></dict>
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>78</string><key>to</key><string>130</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_death</string></dict>
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>23</string><key>to</key><string>44</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_runup</string></dict>
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>45</string><key>to</key><string>66</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_rundown</string></dict>
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>22</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_runleft</string></dict>
+<dict><key>imagename</key><string>Canibal_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>22</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Canibal_runright</string></dict>
+
+	</array>
+</dict>
+</plist>

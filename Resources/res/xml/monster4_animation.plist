@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>48</string><key>to</key><string>69</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_attack</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>70</string><key>to</key><string>110</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_death</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>17</string><key>to</key><string>32</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_runup</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>32</string><key>to</key><string>47</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_rundown</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>16</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_runleft</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>16</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_runright</string></dict>
+<dict><key>imagename</key><string>fallen_0%03d.png</string><key>from</key><string>114</string><key>to</key><string>146</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Fallen_birth</string></dict>
+
+
+	</array>
+</dict>
+</plist>

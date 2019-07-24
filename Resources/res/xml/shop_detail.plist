@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>shop</key>
+	<array>
+		
+<dict><key>id</key><string>1</string><key>cargoname</key><string>BOY</string><key>cargodescription</key><string>THE BIG BAD BOY OF\n BOMBS! YOU ONLY NEED\n ONE OF THESE TO CLEAR THE\n BATTLEFIELD AND CLAIM THE\n SPOILS OF WAR! JUST TELL\n US WHERE TO DROP IT!</string><key>price</key><string>999</string></dict>
+<dict><key>id</key><string>2</string><key>cargoname</key><string>ICE</string><key>cargodescription</key><string>FREEZE THE WORLE!\n\n THE MAGIC IN THIS ROD WILL\n FREZE ALL BADDIES AND\n PREVENT NEW ONES FROM\n APPROACHING </string><key>price</key><string>250</string></dict>
+<dict><key>id</key><string>3</string><key>cargoname</key><string>BOMB</string><key>cargodescription</key><string>BLAST YOUR ENEMIES TO\n PLECES WITH THESE\n SPECIALLY DESIGNED\n GNOME EXPLOSIVES.\n\n DESTRUCTION GUARANTEED.</string><key>price</key><string>50</string></dict>
+<dict><key>id</key><string>4</string><key>cargoname</key><string>WATER</string><key>cargodescription</key><string>THIS SPECIAL CONCOCTION\n WILL FREEZE YOUR ENEMIES\n HELPLESS IN PLACE FOR A\n WHILE</string><key>price</key><string>50</string></dict>
+<dict><key>id</key><string>5</string><key>cargoname</key><string>HEARTBOX</string><key>cargodescription</key><string>MAGICAL HEARTS TRAPPED\n IN A BOX.\n\n BREAK GLASS IN AN\n EMERGENCY TO GAIN 5\n EXTRA LIVES.</string><key>price</key><string>50</string></dict>
+<dict><key>id</key><string>6</string><key>cargoname</key><string>MONEY</string><key>cargodescription</key><string>LEAVE NOTHING TO CHANCE.\n BRING EXTRA GOLD TO THE\n BATTLEFIELD!\n\n EACH BIG WORTH 500\n GOLD PIECES.</string><key>price</key><string>500</string></dict>
+
+	</array>
+</dict>
+</plist>

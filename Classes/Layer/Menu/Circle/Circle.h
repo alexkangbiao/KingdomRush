@@ -1,0 +1,1 @@
+#ifndef _CIRCLE_H_#define _CIRCLE_H_#include "cocos2d.h"#include "CircleBase.h"USING_NS_CC;class Circle : public CircleBase {public:    virtual bool init();    CREATE_FUNC(Circle);};#endif

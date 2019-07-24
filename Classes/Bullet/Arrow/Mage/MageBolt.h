@@ -1,0 +1,1 @@
+#ifndef _MAGEBOLT_H_#define _MAGEBOLT_H_#include "cocos2d.h"#include "MageBase.h"USING_NS_CC;class MageBolt : public MageBase{public:    static MageBolt* createMageBoltWithLevel(int level);    virtual bool initWithLevel(int level);    private:    void processMonsterDeath(BaseMonster * monster);	void shoot();};	#endif

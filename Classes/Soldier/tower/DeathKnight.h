@@ -1,0 +1,1 @@
+#ifndef _DEATH_KNIGHT_H_#define _DEATH_KNIGHT_H_#include "BaseSoldier.h"class DeathKnight : public BaseSoldier {public:	virtual bool init();	static DeathKnight* createDeathKnight(Point point);    private:	void birth(Point point);    virtual void setAnimationAndOthers();};#endif

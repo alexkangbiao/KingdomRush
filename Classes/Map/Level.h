@@ -1,0 +1,1 @@
+#ifndef _LEVEL_H_#define _LEVEL_H_#include "BaseMap.h"#include "cocos2d.h"USING_NS_CC;class Level : public BaseMap{public:	Level();	~Level();    	static Level* createGame(int level, int difficulty);    virtual bool initWithLevelAndDifficulty(int level, int difficulty);};#endif

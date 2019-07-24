@@ -1,0 +1,1 @@
+#ifndef _ARROW_H_#define _ARROW_H_#include "cocos2d.h"#include "ArrowBase.h"USING_NS_CC;class Arrow : public ArrowBase{public:    static Arrow* createArrowWithLevel(int level);    virtual bool initWithLevel(int level);    	void shoot();    private:    void processMonsterDeath(BaseMonster * monster);        virtual void handleMissBullet();    };#endif

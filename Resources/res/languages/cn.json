@@ -1,0 +1,15 @@
+{
+    "comment_1" : "",
+    
+    "init_key" : "multi language init already done.",
+
+    "save_menu_label_delete_slot":"DELETE SLOT?",
+    "save_menu_label_slot_number":"SLOT %d",
+    "save_menu_label_new_game"   :"new game",
+    
+    "comment_2" : "",
+    
+    
+    
+    "the_end":"0"
+}

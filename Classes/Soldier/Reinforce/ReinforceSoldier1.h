@@ -1,0 +1,1 @@
+#ifndef _REINFORCE_SOLDIER_1_H_#define _REINFORCE_SOLDIER_1_H_#include "ReinforceSoldierBase.h"/* 这个类是和伞降有关的类。表现其中一个战士，但是这两个战士除了贴图，数据不一样，其他算法都是一样的。 */class ReinforceSoldier1 : public ReinforceSoldierBase {public:	virtual bool init();	static ReinforceSoldier1* createReinforceSoldier(Point point);private:    virtual void setAnimationAndOthers();};#endif

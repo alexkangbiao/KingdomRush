@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>27</string><key>to</key><string>69</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_attack</string></dict>
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>70</string><key>to</key><string>99</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_death</string></dict>
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>10</string><key>to</key><string>18</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_runup</string></dict>
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>19</string><key>to</key><string>27</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_rundown</string></dict>
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>1</string><key>to</key><string>9</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_runleft</string></dict>
+<dict><key>imagename</key><string>scorpion_0%003d.png</string><key>from</key><string>1</string><key>to</key><string>9</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Scorpion_runright</string></dict>
+
+	</array>
+</dict>
+</plist>

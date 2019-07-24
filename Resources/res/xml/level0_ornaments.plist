@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ornaments</key>
+	<array>
+				<dict>
+					<key>id</key>
+					<string>0</string>
+					<key>type</key>
+					<string>0</string>
+					<key>imagename</key>
+					<string>Stage1_Hammer.png</string>
+					<key>x</key>
+					<string>593</string>
+					<key>y</key>
+					<string>547</string>
+				</dict>
+				<dict>
+					<key>id</key>
+					<string>1</string>
+					<key>type</key>
+					<string>0</string>
+					<key>imagename</key>
+					<string>Stage1_OverWall.png</string>
+					<key>x</key>
+					<string>19</string>
+					<key>y</key>
+					<string>583</string>
+				</dict>
+
+
+	</array>
+</dict>
+</plist>

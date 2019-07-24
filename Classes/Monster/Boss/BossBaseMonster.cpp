@@ -1,0 +1,1 @@
+#include "BossBaseMonster.h"#include "GameManager.h"#include "BaseMap.h"//#include "Efreeti.h"#include "Monster.h"#include "SoundManager.h"bool BossBaseMonster::init(int monsterType){	if (!BaseMonster::initWithMonsterType(monsterType)) {		return false;	}    this->addAdditionalSprite();	return true;}

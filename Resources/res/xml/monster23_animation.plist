@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>13</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_runleft</string></dict>
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>21</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_runright</string></dict>
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>15</string><key>to</key><string>27</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_runup</string></dict>
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>28</string><key>to</key><string>41</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_rundown</string></dict>
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>43</string><key>to</key><string>65</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_attack</string></dict>
+<dict><key>imagename</key><string>SaurianQuetzal_0%03d.png</string><key>from</key><string>65</string><key>to</key><string>83</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Quetzal_death</string></dict>
+
+	</array>
+</dict>
+</plist>

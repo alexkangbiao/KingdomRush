@@ -1,0 +1,1 @@
+#ifndef _SHIT_H_#define _SHIT_H_#include "BombBulletBase.h"#include "cocos2d.h"USING_NS_CC;class Shit : public BombBulletBase{public:    virtual bool init();    CREATE_FUNC(Shit);    	void shoot();    private:    virtual void handleHP(BaseMonster * monster);    virtual void handleFinishBullet();//    void removeBullet();};#endif

@@ -1,0 +1,1 @@
+#ifndef _TowerSoldierBase_H_#define _TowerSoldierBase_H_#include "BaseSoldier.h"class TowerSoldierBase : public BaseSoldier{public:	bool initWithSoldierType(SoldierType soldierType, int level);    protected:    virtual void setSoldierAttackState(float &monsterCurrentHP);     virtual void addAdditionalParameterConfig();};#endif

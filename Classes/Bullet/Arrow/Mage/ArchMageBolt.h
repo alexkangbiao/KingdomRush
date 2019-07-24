@@ -1,0 +1,1 @@
+#ifndef _ARCHMAGEBOLT_H_#define _ARCHMAGEBOLT_H_#include "cocos2d.h"#include "MageBase.h"class ArchMageBolt : public MageBase{public :	bool init();	CREATE_FUNC(ArchMageBolt);    	void shoot();	void round();    private:    void processMonsterDeath(BaseMonster * monster);};#endif

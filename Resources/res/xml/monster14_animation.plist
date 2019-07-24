@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>67</string><key>to</key><string>150</string><key>delay</key><string>0.02f</string><key>animationname</key><string>Priest_attack</string></dict>
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>160</string><key>to</key><string>176</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Priest_death</string></dict>
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>23</string><key>to</key><string>44</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Priest_runup</string></dict>
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>45</string><key>to</key><string>66</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Priest_rundown</string></dict>
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>22</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Priest_runleft</string></dict>
+<dict><key>imagename</key><string>CanibalShamanPriest_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>22</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Priest_runright</string></dict>
+
+	</array>
+</dict>
+</plist>

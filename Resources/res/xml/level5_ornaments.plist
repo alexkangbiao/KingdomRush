@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ornaments</key>
+	<array>
+				<dict>
+					<key>id</key>
+					<string>0</string>
+					<key>type</key>
+					<string>4</string>
+					<key>imagename</key>
+					<string>Stage5_door_0001.png</string>
+					<key>x</key>
+					<string>670</string>
+					<key>y</key>
+					<string>850</string>
+				</dict>
+
+
+				<dict>
+					<key>id</key>
+					<string>1</string>
+					<key>type</key>
+					<string>4</string>
+					<key>delay</key>
+					<string>6.0f</string>
+					<key>actions</key>
+					<array>
+
+							<dict>
+								<key>subid</key>
+								<string>0</string>
+								<key>subtype</key>
+								<string>0</string>
+								<key>imagename</key>
+								<string>Stage5_door_eyes_effect_0001.png</string>
+								<key>x</key>
+								<string>95</string>
+								<key>y</key>
+								<string>70</string>
+								<key>animation</key>
+								<array>
+									<dict>
+										<key>wavenumber</key>
+										<string>1</string>
+										<key>from</key>
+										<string>1</string>
+										<key>to</key>
+										<string>94</string>
+										<key>animationimagename</key>
+										<string>Stage5_door_eyes_00%02d.png</string>
+										<key>delay</key>
+										<string>0.04f</string>
+									</dict>
+								</array>
+							</dict>
+
+							<dict>
+								<key>subid</key>
+								<string>0</string>
+								<key>subtype</key>
+								<string>0</string>
+								<key>imagename</key>
+								<string>Stage5_door_stones_0001.png</string>
+								<key>x</key>
+								<string>670</string>
+								<key>y</key>
+								<string>850</string>
+								<key>animation</key>
+								<array>
+									<dict>
+										<key>wavenumber</key>
+										<string>1</string>
+										<key>from</key>
+										<string>1</string>
+										<key>to</key>
+										<string>94</string>
+										<key>animationimagename</key>
+										<string>Stage5_door_stones_00%02d.png</string>
+										<key>delay</key>
+										<string>0.04f</string>
+									</dict>
+								</array>
+							</dict>
+
+					</array>
+				</dict>
+
+
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>25</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_runleft</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>25</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_runright</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>25</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_runup</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>26</string><key>to</key><string>50</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_rundown</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>53</string><key>to</key><string>89</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_attack</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>91</string><key>to</key><string>127</string><key>delay</key><string>0.1f</string><key>animationname</key><string>Boss_Efreeti_skill</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_0%03d.png</string><key>from</key><string>130</string><key>to</key><string>211</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_death</string></dict>
+<dict><key>imagename</key><string>Boss_Efreeti_Cloud_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>11</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Efreeti_cloud</string></dict>
+
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>11</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_runleft</string></dict>
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>13</string><key>to</key><string>23</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_rundown</string></dict>
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>11</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_runup</string></dict>
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>11</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_runright</string></dict>
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>47</string><key>to</key><string>61</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_death</string></dict>
+<dict><key>imagename</key><string>desertEfreeti_0%03d.png</string><key>from</key><string>25</string><key>to</key><string>46</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Efreeti_attack</string></dict>
+
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>31</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_runleft</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>31</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_runright</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>31</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_runup</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>33</string><key>to</key><string>62</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_rundown</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>65</string><key>to</key><string>91</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_attack</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>92</string><key>to</key><string>143</string><key>delay</key><string>0.1f</string><key>animationname</key><string>Boss_Canibal_skill_before</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>197</string><key>to</key><string>242</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_skill</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>244</string><key>to</key><string>252</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_skill_after</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>251</string><key>to</key><string>292</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_death</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_0%03d.png</string><key>from</key><string>184</string><key>to</key><string>197</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Boss_Canibal_jump</string></dict>
+
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>13</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_runleft</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>15</string><key>to</key><string>27</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_rundown</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>13</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_runup</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>13</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_runright</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>29</string><key>to</key><string>53</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_attack</string></dict>
+<dict><key>imagename</key><string>CanibalBoos_Offspring_0%03d.png</string><key>from</key><string>56</string><key>to</key><string>70</string><key>delay</key><string>0.04f</string><key>animationname</key><string>CanibalBoos_Offspring_death</string></dict>
+
+	</array>
+</dict>
+</plist>

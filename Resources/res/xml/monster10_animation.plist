@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>73</string><key>to</key><string>98</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Executioner_attack</string></dict>
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>99</string><key>to</key><string>118</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Executioner_death</string></dict>
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>49</string><key>to</key><string>72</string><key>delay</key><string>0.05f</string><key>animationname</key><string>Executioner_runup</string></dict>
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>25</string><key>to</key><string>48</string><key>delay</key><string>0.05f</string><key>animationname</key><string>Executioner_rundown</string></dict>
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>1</string><key>to</key><string>24</string><key>delay</key><string>0.05f</string><key>animationname</key><string>Executioner_runleft</string></dict>
+<dict><key>imagename</key><string>desertExecutioner_0%003d.png</string><key>from</key><string>1</string><key>to</key><string>24</string><key>delay</key><string>0.05f</string><key>animationname</key><string>Executioner_runright</string></dict>
+
+	</array>
+</dict>
+</plist>

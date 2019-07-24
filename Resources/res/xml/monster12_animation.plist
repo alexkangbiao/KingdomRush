@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>73</string><key>to</key><string>126</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_attack</string></dict>
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>127</string><key>to</key><string>160</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_death</string></dict>
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>26</string><key>to</key><string>49</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_runup</string></dict>
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>50</string><key>to</key><string>72</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_rundown</string></dict>
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>25</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_runleft</string></dict>
+<dict><key>imagename</key><string>Gorilla_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>25</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Gorilla_runright</string></dict>
+	</array>
+</dict>
+</plist>

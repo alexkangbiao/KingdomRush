@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animation</key>
+	<array>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>69</string><key>to</key><string>86</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_death</string></dict>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>11</string><key>to</key><string>30</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_runup</string></dict>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>10</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_runleft</string></dict>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>10</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_rundown</string></dict>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>1</string><key>to</key><string>10</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_runright</string></dict>
+        <dict><key>imagename</key><string>desertWolf_0%03d.png</string><key>from</key><string>31</string><key>to</key><string>43</string><key>delay</key><string>0.04f</string><key>animationname</key><string>Wolf_attack</string></dict>
+	</array>
+</dict>
+</plist>
